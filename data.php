@@ -8,13 +8,13 @@
         <div id="result-table">
                 <table border="1">
                     <tr>
-                        <th>Name</td>
-                        <th>Father Name</td>
+                        <th>Name</th>
+                        <th>Father Name</th>
                         <th>Mobile No.</th>
-                        <th>Father Mobile No.</td>
-                        <th>Email</td>
-                        <th>Adddress</td>
-                        <th>User Name</td>
+                        <th>Father Mobile No.</th>
+                        <th>Email</th>
+                        <th>Adddress</th>
+                        <th>User Name</th>
 
                     </tr>
                     <tr>
